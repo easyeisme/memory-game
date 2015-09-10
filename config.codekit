@@ -1,0 +1,2792 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "19051",
+"files": {
+	"\/_material\/arcade\/birdo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.32368e+06,
+		"inputAbbreviatedPath": "\/_material\/arcade\/birdo.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/birdo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/blooper.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 250263,
+		"inputAbbreviatedPath": "\/_material\/arcade\/blooper.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/blooper.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/bob-omb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 147159,
+		"inputAbbreviatedPath": "\/_material\/arcade\/bob-omb.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/bob-omb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/boo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 236626,
+		"inputAbbreviatedPath": "\/_material\/arcade\/boo.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/boo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/bowser.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.50091e+06,
+		"inputAbbreviatedPath": "\/_material\/arcade\/bowser.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/bowser.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/bowser2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108251,
+		"inputAbbreviatedPath": "\/_material\/arcade\/bowser2.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/bowser2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/bullet-bill.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 203498,
+		"inputAbbreviatedPath": "\/_material\/arcade\/bullet-bill.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/bullet-bill.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/buzzy-beetle.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80402,
+		"inputAbbreviatedPath": "\/_material\/arcade\/buzzy-beetle.jpg",
+		"outputAbbreviatedPath": "\/_material\/arcade\/buzzy-beetle.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/chain-chomp.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124530,
+		"inputAbbreviatedPath": "\/_material\/arcade\/chain-chomp.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/chain-chomp.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/cheep-cheep.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66221,
+		"inputAbbreviatedPath": "\/_material\/arcade\/cheep-cheep.jpg",
+		"outputAbbreviatedPath": "\/_material\/arcade\/cheep-cheep.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/coin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31146,
+		"inputAbbreviatedPath": "\/_material\/arcade\/coin.jpg",
+		"outputAbbreviatedPath": "\/_material\/arcade\/coin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/diddy-kong.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.91413e+06,
+		"inputAbbreviatedPath": "\/_material\/arcade\/diddy-kong.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/diddy-kong.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/donkey-kong.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7.93614e+06,
+		"inputAbbreviatedPath": "\/_material\/arcade\/donkey-kong.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/donkey-kong.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/fire-flower.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42087,
+		"inputAbbreviatedPath": "\/_material\/arcade\/fire-flower.jpg",
+		"outputAbbreviatedPath": "\/_material\/arcade\/fire-flower.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/goomba.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 428635,
+		"inputAbbreviatedPath": "\/_material\/arcade\/goomba.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/goomba.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/hammer-bro.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 534326,
+		"inputAbbreviatedPath": "\/_material\/arcade\/hammer-bro.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/hammer-bro.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/koopa-iggy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94315,
+		"inputAbbreviatedPath": "\/_material\/arcade\/koopa-iggy.jpg",
+		"outputAbbreviatedPath": "\/_material\/arcade\/koopa-iggy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/koopa-larry.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.00625e+06,
+		"inputAbbreviatedPath": "\/_material\/arcade\/koopa-larry.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/koopa-larry.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/koopa-lemmy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 125905,
+		"inputAbbreviatedPath": "\/_material\/arcade\/koopa-lemmy.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/koopa-lemmy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/koopa-morton.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4.76017e+06,
+		"inputAbbreviatedPath": "\/_material\/arcade\/koopa-morton.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/koopa-morton.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/koopa-paratroopa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.80243e+06,
+		"inputAbbreviatedPath": "\/_material\/arcade\/koopa-paratroopa.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/koopa-paratroopa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/koopa-roy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 150603,
+		"inputAbbreviatedPath": "\/_material\/arcade\/koopa-roy.jpg",
+		"outputAbbreviatedPath": "\/_material\/arcade\/koopa-roy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/koopa-troopa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 469262,
+		"inputAbbreviatedPath": "\/_material\/arcade\/koopa-troopa.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/koopa-troopa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/koopa-wendy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 191943,
+		"inputAbbreviatedPath": "\/_material\/arcade\/koopa-wendy.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/koopa-wendy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/lakitu.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.7818e+06,
+		"inputAbbreviatedPath": "\/_material\/arcade\/lakitu.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/lakitu.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/luigi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98348,
+		"inputAbbreviatedPath": "\/_material\/arcade\/luigi.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/luigi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/luigi3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.03879e+06,
+		"inputAbbreviatedPath": "\/_material\/arcade\/luigi3.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/luigi3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/mario.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.80522e+06,
+		"inputAbbreviatedPath": "\/_material\/arcade\/mario.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/mario.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/mushroom.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 136923,
+		"inputAbbreviatedPath": "\/_material\/arcade\/mushroom.jpg",
+		"outputAbbreviatedPath": "\/_material\/arcade\/mushroom.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/peach.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.48151e+06,
+		"inputAbbreviatedPath": "\/_material\/arcade\/peach.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/peach.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/question-block.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13758,
+		"inputAbbreviatedPath": "\/_material\/arcade\/question-block.jpg",
+		"outputAbbreviatedPath": "\/_material\/arcade\/question-block.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/red-shell.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29763,
+		"inputAbbreviatedPath": "\/_material\/arcade\/red-shell.jpg",
+		"outputAbbreviatedPath": "\/_material\/arcade\/red-shell.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/samus.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4.46008e+06,
+		"inputAbbreviatedPath": "\/_material\/arcade\/samus.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/samus.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/spiny.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 387468,
+		"inputAbbreviatedPath": "\/_material\/arcade\/spiny.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/spiny.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/toad.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109360,
+		"inputAbbreviatedPath": "\/_material\/arcade\/toad.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/toad.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/toad2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.04184e+06,
+		"inputAbbreviatedPath": "\/_material\/arcade\/toad2.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/toad2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/toad3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 164213,
+		"inputAbbreviatedPath": "\/_material\/arcade\/toad3.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/toad3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/wario.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 447875,
+		"inputAbbreviatedPath": "\/_material\/arcade\/wario.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/wario.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/arcade\/yoshi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.74626e+06,
+		"inputAbbreviatedPath": "\/_material\/arcade\/yoshi.png",
+		"outputAbbreviatedPath": "\/_material\/arcade\/yoshi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/bg-card-back-lg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 861633,
+		"inputAbbreviatedPath": "\/_material\/bg-card-back-lg.png",
+		"outputAbbreviatedPath": "\/_material\/bg-card-back-lg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/patterns\/contemporary_china\/contemporary_china.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9709,
+		"inputAbbreviatedPath": "\/_material\/patterns\/contemporary_china\/contemporary_china.png",
+		"outputAbbreviatedPath": "\/_material\/patterns\/contemporary_china\/contemporary_china.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/patterns\/contemporary_china_2\/contemporary_china_2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7101,
+		"inputAbbreviatedPath": "\/_material\/patterns\/contemporary_china_2\/contemporary_china_2.png",
+		"outputAbbreviatedPath": "\/_material\/patterns\/contemporary_china_2\/contemporary_china_2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/patterns\/fabric_of_squares_gray\/fabric_of_squares_gray.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56471,
+		"inputAbbreviatedPath": "\/_material\/patterns\/fabric_of_squares_gray\/fabric_of_squares_gray.png",
+		"outputAbbreviatedPath": "\/_material\/patterns\/fabric_of_squares_gray\/fabric_of_squares_gray.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/patterns\/fabric_of_squares_gray\/fabric_of_squares_gray_@2X.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57433,
+		"inputAbbreviatedPath": "\/_material\/patterns\/fabric_of_squares_gray\/fabric_of_squares_gray_@2X.png",
+		"outputAbbreviatedPath": "\/_material\/patterns\/fabric_of_squares_gray\/fabric_of_squares_gray_@2X.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/patterns\/footer_lodyas\/footer_lodyas.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33702,
+		"inputAbbreviatedPath": "\/_material\/patterns\/footer_lodyas\/footer_lodyas.png",
+		"outputAbbreviatedPath": "\/_material\/patterns\/footer_lodyas\/footer_lodyas.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/patterns\/grey_wash_wall\/grey_wash_wall.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47433,
+		"inputAbbreviatedPath": "\/_material\/patterns\/grey_wash_wall\/grey_wash_wall.png",
+		"outputAbbreviatedPath": "\/_material\/patterns\/grey_wash_wall\/grey_wash_wall.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/patterns\/grey_wash_wall\/grey_wash_wall_@2X.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 149273,
+		"inputAbbreviatedPath": "\/_material\/patterns\/grey_wash_wall\/grey_wash_wall_@2X.png",
+		"outputAbbreviatedPath": "\/_material\/patterns\/grey_wash_wall\/grey_wash_wall_@2X.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/patterns\/low_contrast_linen\/low_contrast_linen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22749,
+		"inputAbbreviatedPath": "\/_material\/patterns\/low_contrast_linen\/low_contrast_linen.png",
+		"outputAbbreviatedPath": "\/_material\/patterns\/low_contrast_linen\/low_contrast_linen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/patterns\/low_contrast_linen\/low_contrast_linen_@2X.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33934,
+		"inputAbbreviatedPath": "\/_material\/patterns\/low_contrast_linen\/low_contrast_linen_@2X.png",
+		"outputAbbreviatedPath": "\/_material\/patterns\/low_contrast_linen\/low_contrast_linen_@2X.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/patterns\/subtle_white_feathers\/subtle_white_feathers.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 166566,
+		"inputAbbreviatedPath": "\/_material\/patterns\/subtle_white_feathers\/subtle_white_feathers.png",
+		"outputAbbreviatedPath": "\/_material\/patterns\/subtle_white_feathers\/subtle_white_feathers.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/patterns\/subtle_white_feathers\/subtle_white_feathers_@2X.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 213625,
+		"inputAbbreviatedPath": "\/_material\/patterns\/subtle_white_feathers\/subtle_white_feathers_@2X.png",
+		"outputAbbreviatedPath": "\/_material\/patterns\/subtle_white_feathers\/subtle_white_feathers_@2X.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/patterns\/triangular\/triangular.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 210,
+		"inputAbbreviatedPath": "\/_material\/patterns\/triangular\/triangular.png",
+		"outputAbbreviatedPath": "\/_material\/patterns\/triangular\/triangular.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/patterns\/triangular\/triangular_@2X.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 212,
+		"inputAbbreviatedPath": "\/_material\/patterns\/triangular\/triangular_@2X.png",
+		"outputAbbreviatedPath": "\/_material\/patterns\/triangular\/triangular_@2X.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/10_of_clubs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54676,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/10_of_clubs.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/10_of_clubs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/10_of_diamonds.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46241,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/10_of_diamonds.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/10_of_diamonds.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/10_of_hearts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46328,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/10_of_hearts.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/10_of_hearts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/10_of_spades.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50453,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/10_of_spades.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/10_of_spades.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/2_of_clubs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23590,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/2_of_clubs.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/2_of_clubs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/2_of_diamonds.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19815,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/2_of_diamonds.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/2_of_diamonds.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/2_of_hearts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20136,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/2_of_hearts.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/2_of_hearts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/2_of_spades.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21863,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/2_of_spades.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/2_of_spades.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/3_of_clubs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29161,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/3_of_clubs.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/3_of_clubs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/3_of_diamonds.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24257,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/3_of_diamonds.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/3_of_diamonds.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/3_of_hearts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24757,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/3_of_hearts.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/3_of_hearts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/3_of_spades.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26922,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/3_of_spades.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/3_of_spades.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/4_of_clubs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28623,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/4_of_clubs.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/4_of_clubs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/4_of_diamonds.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24212,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/4_of_diamonds.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/4_of_diamonds.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/4_of_hearts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24681,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/4_of_hearts.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/4_of_hearts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/4_of_spades.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26409,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/4_of_spades.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/4_of_spades.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/5_of_clubs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34857,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/5_of_clubs.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/5_of_clubs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/5_of_diamonds.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29319,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/5_of_diamonds.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/5_of_diamonds.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/5_of_hearts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29804,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/5_of_hearts.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/5_of_hearts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/5_of_spades.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32219,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/5_of_spades.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/5_of_spades.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/6_of_clubs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39972,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/6_of_clubs.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/6_of_clubs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/6_of_diamonds.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33692,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/6_of_diamonds.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/6_of_diamonds.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/6_of_hearts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33457,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/6_of_hearts.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/6_of_hearts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/6_of_spades.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36854,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/6_of_spades.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/6_of_spades.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/7_of_clubs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41174,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/7_of_clubs.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/7_of_clubs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/7_of_diamonds.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34168,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/7_of_diamonds.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/7_of_diamonds.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/7_of_hearts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34474,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/7_of_hearts.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/7_of_hearts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/7_of_spades.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37167,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/7_of_spades.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/7_of_spades.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/8_of_clubs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48468,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/8_of_clubs.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/8_of_clubs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/8_of_diamonds.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40441,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/8_of_diamonds.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/8_of_diamonds.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/8_of_hearts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40849,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/8_of_hearts.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/8_of_hearts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/8_of_spades.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44015,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/8_of_spades.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/8_of_spades.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/9_of_clubs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51028,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/9_of_clubs.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/9_of_clubs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/9_of_diamonds.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42981,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/9_of_diamonds.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/9_of_diamonds.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/9_of_hearts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43085,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/9_of_hearts.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/9_of_hearts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/9_of_spades.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46943,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/9_of_spades.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/9_of_spades.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/ace_of_clubs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42481,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/ace_of_clubs.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/ace_of_clubs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/ace_of_diamonds.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36810,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/ace_of_diamonds.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/ace_of_diamonds.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/ace_of_hearts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44136,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/ace_of_hearts.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/ace_of_hearts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/ace_of_spades.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61075,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/ace_of_spades.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/ace_of_spades.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/ace_of_spades2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42763,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/ace_of_spades2.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/ace_of_spades2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/black_joker.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41744,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/black_joker.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/black_joker.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_clubs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40192,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_clubs.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_clubs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_clubs2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 208118,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_clubs2.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_clubs2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_diamonds.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34727,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_diamonds.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_diamonds.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_diamonds2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 215482,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_diamonds2.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_diamonds2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_hearts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42091,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_hearts.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_hearts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_hearts2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 260725,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_hearts2.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_hearts2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_spades.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40477,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_spades.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_spades.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_spades2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 247507,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_spades2.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/jack_of_spades2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_clubs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42009,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_clubs.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_clubs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_clubs2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 263133,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_clubs2.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_clubs2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_diamonds.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36412,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_diamonds.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_diamonds.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_diamonds2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 266252,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_diamonds2.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_diamonds2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_hearts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43728,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_hearts.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_hearts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_hearts2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 279570,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_hearts2.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_hearts2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_spades.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42335,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_spades.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_spades.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_spades2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 201544,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_spades2.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/king_of_spades2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_clubs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45004,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_clubs.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_clubs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_clubs2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 285495,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_clubs2.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_clubs2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_diamonds.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39185,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_diamonds.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_diamonds.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_diamonds2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 195223,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_diamonds2.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_diamonds2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_hearts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46831,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_hearts.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_hearts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_hearts2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 243233,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_hearts2.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_hearts2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_spades.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45431,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_spades.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_spades.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_spades2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 205872,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_spades2.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/queen_of_spades2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_material\/Playing Cards\/PNG-cards-1.3\/red_joker.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41267,
+		"inputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/red_joker.png",
+		"outputAbbreviatedPath": "\/_material\/Playing Cards\/PNG-cards-1.3\/red_joker.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/library\/css\/main.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/library\/css\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/library\/img\/bg-card-back-arcade.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26670,
+		"inputAbbreviatedPath": "\/library\/img\/bg-card-back-arcade.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/bg-card-back-arcade.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/bg-card-back-comic.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24395,
+		"inputAbbreviatedPath": "\/library\/img\/bg-card-back-comic.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/bg-card-back-comic.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/bg-card-back-poker.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59390,
+		"inputAbbreviatedPath": "\/library\/img\/bg-card-back-poker.png",
+		"outputAbbreviatedPath": "\/library\/img\/bg-card-back-poker.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/bg-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 186842,
+		"inputAbbreviatedPath": "\/library\/img\/bg-logo.png",
+		"outputAbbreviatedPath": "\/library\/img\/bg-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/bg-pattern-contemporary-china.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9709,
+		"inputAbbreviatedPath": "\/library\/img\/bg-pattern-contemporary-china.png",
+		"outputAbbreviatedPath": "\/library\/img\/bg-pattern-contemporary-china.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/bg-pattern-wood.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 396872,
+		"inputAbbreviatedPath": "\/library\/img\/bg-pattern-wood.png",
+		"outputAbbreviatedPath": "\/library\/img\/bg-pattern-wood.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/birdo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33642,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/birdo.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/birdo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/blooper.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25608,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/blooper.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/blooper.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/bob-omb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26114,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/bob-omb.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/bob-omb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/boo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22193,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/boo.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/boo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/bowser.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34761,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/bowser.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/bowser.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/buzzy-beetle.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28915,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/buzzy-beetle.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/buzzy-beetle.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/cheep-cheep.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27566,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/cheep-cheep.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/cheep-cheep.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/coin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27948,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/coin.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/coin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/diddy-kong.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31129,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/diddy-kong.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/diddy-kong.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/donkey-kong.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31241,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/donkey-kong.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/donkey-kong.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/fire-flower.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32808,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/fire-flower.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/fire-flower.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/goomba.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30882,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/goomba.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/goomba.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/hammer-bro.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34810,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/hammer-bro.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/hammer-bro.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/koopa-paratroopa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33932,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/koopa-paratroopa.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/koopa-paratroopa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/koopa-troopa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36472,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/koopa-troopa.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/koopa-troopa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/lakitu.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29839,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/lakitu.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/lakitu.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/luigi.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29808,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/luigi.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/luigi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/mario.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33421,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/mario.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/mario.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/mushroom.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28173,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/mushroom.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/mushroom.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/peach.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30138,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/peach.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/peach.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/red-shell.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26296,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/red-shell.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/red-shell.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/toad.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31730,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/toad.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/toad.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/wario.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33403,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/wario.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/wario.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-arcade\/yoshi.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32408,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-arcade\/yoshi.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-arcade\/yoshi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/captain-america.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69936,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/captain-america.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/captain-america.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/colossus.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83452,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/colossus.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/colossus.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/cyclops.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75034,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/cyclops.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/cyclops.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/deadpool.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83278,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/deadpool.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/deadpool.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/gambit.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66571,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/gambit.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/gambit.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/hulk.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71012,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/hulk.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/hulk.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/human-torch.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65180,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/human-torch.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/human-torch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/iron-man.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48513,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/iron-man.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/iron-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/juggernaut.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61906,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/juggernaut.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/juggernaut.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/magneto.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60900,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/magneto.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/magneto.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/mr-fantastic.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81463,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/mr-fantastic.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/mr-fantastic.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/nick-fury.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75017,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/nick-fury.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/nick-fury.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/nightcrawler.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82451,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/nightcrawler.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/nightcrawler.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/spiderman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77919,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/spiderman.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/spiderman.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/storm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54019,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/storm.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/storm.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/thor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63606,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/thor.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/thor.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/venom.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58753,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/venom.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/venom.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/img\/card-face-comic\/wolverine.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84844,
+		"inputAbbreviatedPath": "\/library\/img\/card-face-comic\/wolverine.jpg",
+		"outputAbbreviatedPath": "\/library\/img\/card-face-comic\/wolverine.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/js\/jquery-2.1.4.min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/library\/js\/jquery-2.1.4.min.js",
+		"outputAbbreviatedPath": "\/library\/js\/jquery-2.1.4.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/library\/js\/scripts.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/library\/js\/scripts.js",
+		"outputAbbreviatedPath": "\/library\/js\/scripts-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/library\/sass\/global\/_base.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/library\/sass\/global\/_base.scss",
+		"outputAbbreviatedPath": "\/library\/sass\/css\/_base.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/library\/sass\/global\/_fonts.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/library\/sass\/global\/_fonts.scss",
+		"outputAbbreviatedPath": "\/library\/sass\/css\/_fonts.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/library\/sass\/global\/_mixins.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/library\/sass\/global\/_mixins.scss",
+		"outputAbbreviatedPath": "\/library\/sass\/css\/_mixins.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/library\/sass\/global\/_normalize.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/library\/sass\/global\/_normalize.scss",
+		"outputAbbreviatedPath": "\/library\/sass\/css\/_normalize.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/library\/sass\/global\/_variables.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/library\/sass\/global\/_variables.scss",
+		"outputAbbreviatedPath": "\/library\/sass\/css\/_variables.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/library\/sass\/main.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/library\/sass\/main.scss",
+		"outputAbbreviatedPath": "\/library\/css\/main.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Eric Miller",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "memory-game",
+	"displayValueWasSetByUser": 1,
+	"iconImageName": "harddrive_brown"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 1,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 0,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 0,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 0,
+	"javascriptSyntaxCheckerStyle": 0,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es6": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"for": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsonAutoOutputPathEnabled": 0,
+	"jsonAutoOutputPathFilenamePattern": "*-min.json",
+	"jsonAutoOutputPathRelativePath": "",
+	"jsonAutoOutputPathReplace1": "",
+	"jsonAutoOutputPathReplace2": "",
+	"jsonAutoOutputPathStyle": 0,
+	"jsonOrderOutput": 0,
+	"jsonOutputStyle": 1,
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownCriticStyle": 0,
+	"markdownEnableFootnotes": 1,
+	"markdownEnableLabels": 1,
+	"markdownEnableSmartQuotes": 1,
+	"markdownEscapeLineBreaks": 0,
+	"markdownMaskEmailAddresses": 1,
+	"markdownOutputFormat": 0,
+	"markdownOutputStyle": 0,
+	"markdownParseMetadata": 1,
+	"markdownProcessHTML": 0,
+	"markdownRandomFootnoteNumbers": 0,
+	"markdownUseCompatibilityMode": 0,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 10,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 1,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputFormat": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptPreserveConstEnums": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptSuppressImplicitAnyIndexErrors": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}
